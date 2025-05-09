@@ -1,0 +1,9 @@
+fastapi
+pydantic
+openai
+uvicorn
+requests
+aioredis
+tortoise-orm
+aiomysql
+python-multipart
